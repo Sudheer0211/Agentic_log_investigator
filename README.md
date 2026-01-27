@@ -2,6 +2,7 @@
 An end-to-end agentic AI system that reasons over large-scale machine logs to produce grounded, observable, and evaluatable incident diagnoses.
 
 ****Overview****
+
 Modern production systems generate massive volumes of heterogeneous logs, making incident investigation slow, manual, and error-prone.
 Traditional dashboards answer what happened, but not why.
 
